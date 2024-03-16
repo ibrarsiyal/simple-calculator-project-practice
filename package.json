@@ -1,0 +1,18 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A new project of calculator with the help of Node.js,typescript,inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"ibrar\"",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
